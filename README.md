@@ -6,7 +6,7 @@
 
 Texto de cuerpo
 
-**Negrita**
+**letraNegrita**
 
 - Enlistado
 
